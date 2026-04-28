@@ -10,6 +10,7 @@ export function HeroSection() {
           src="Mme_zaineb_zioud1_16_9.jpg"
           alt="Clinic aesthetic"
           className="w-full h-full object-cover object-right md:object-center opacity-80 mix-blend-luminosity"
+          loading="eager"
         />
         {/* Gradient Overlay for dark luxury feel */}
         <div className="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-black/30" />
