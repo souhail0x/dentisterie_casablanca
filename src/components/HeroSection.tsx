@@ -7,7 +7,7 @@ export function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="Mme_zaineb_zioud1_16_9.png"
+          src="Mme_zaineb_zioud1_16_9.jpg"
           alt="Clinic aesthetic"
           className="w-full h-full object-cover object-right md:object-center opacity-80 mix-blend-luminosity"
         />
