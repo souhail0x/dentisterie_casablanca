@@ -1,3 +1,4 @@
+/*
 import type { Metadata } from "next";
 import { Outfit, Great_Vibes } from "next/font/google";
 import "./globals.css";
@@ -34,3 +35,5 @@ export default function RootLayout({
     </html>
   );
 }
+*/
+export {}
