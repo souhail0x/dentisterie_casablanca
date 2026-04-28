@@ -58,7 +58,7 @@ export function Testimonials() {
               <h4 className="uppercase tracking-widest text-sm font-medium">
                 {testimonial.name}
               </h4>
-              
+
               {/* Decorative accent */}
               <div className="absolute top-0 left-1/2 -translate-x-1/2 w-12 h-[1px] bg-white/30" />
             </motion.div>
