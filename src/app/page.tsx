@@ -22,7 +22,7 @@ export default function Home() {
       <ContactSection />
       <Footer />
       
-      {/* WhatsApp Floating Button */}
+      // WhatsApp Floating Button
       <a 
         href="https://wa.me/212600000000" 
         target="_blank" 
